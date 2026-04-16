@@ -1,2 +1,3 @@
-# python-practice
-My python learning projects
+# python-basics-principle
+-Early programming practice exercises
+
